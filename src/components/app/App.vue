@@ -106,7 +106,9 @@ export default {
 <style lang="scss">
 @media screen and (min-width:48em) {
     #app {
-    margin:0;
+    margin:0 auto;
+    padding:0 15px;
+    max-width:1230px;
     }
 }
 @media (min-width:64em) {
